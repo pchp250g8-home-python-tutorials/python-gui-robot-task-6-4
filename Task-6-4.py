@@ -1,3 +1,5 @@
+# --coding:utf-8--
+
 from robot import *
 
 for i in range(5):
